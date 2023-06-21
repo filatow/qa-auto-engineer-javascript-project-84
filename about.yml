@@ -1,0 +1,19 @@
+---
+name: Eugene Filatov
+job: html-developer
+level: Middle
+email: not-found@inbox.ru
+description: |
+  Приветствую, читающий!
+  Я продолжающий html-верстальщик и личинка фронтендера, для расширения кругозора изучаю тестирование web-приложений.
+skills:
+  - кроссбраузерная адаптивная верстка
+  - LESS/SASS
+  - browser devtools
+  - JavaScript, TypeScript
+  - gulp, webpack
+  - Bootstrap, JQury
+  - React, Angular
+  - Figma, PhotoShop
+  - английский язык A2/B1
+  - слепая печать
